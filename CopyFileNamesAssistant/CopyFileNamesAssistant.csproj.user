@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>"D:\TOOL\TOOL\Audio Multifunctional Tool Box\XiamiThief v0.6.2 Beta 2\Music\disc 3\Within Temptation-Edge Of The World %28Instrumental Version%29.mp3"</StartArguments>
+  </PropertyGroup>
+</Project>
