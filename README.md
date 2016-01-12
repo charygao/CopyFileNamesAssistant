@@ -29,3 +29,7 @@ Constantly improve my English!
 ##结尾
 
 英语正在提高中...请见谅!
+
+##more 更多详情
+
+see in 相见  http://www.cnblogs.com/Chary/p/No00006C.html
